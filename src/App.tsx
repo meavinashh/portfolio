@@ -507,7 +507,6 @@ export function App() {
           >
             Featured Projects
           </motion.h2>
-          
           <div className="grid md:grid-cols-2 lg:grid-cols-3 gap-6">
             <ProjectCard
               title="Cab Booking Data Analytics"
@@ -556,6 +555,34 @@ export function App() {
               description="Designed and developed a modern educational platform highlighting courses from 1st to 12th grade, student success stories, faculty information, and academic services with a clean and user-friendly interface."
               tech={["React", "TypeScript", "Vite", "CSS", "Responsive Design"]}
               links={{ github: "https://github.com/meavinashh/Private-Institute-Website", demo: "https://private-institute-website-3di5.vercel.app/" }}
+            />
+
+            <ProjectCard
+              title="Amazon Clone"
+              description="Full-featured e-commerce UI with shopping cart system, product listings, and checkout flow. Built with React.js and modern web technologies."
+              tech={["React.js", "JavaScript", "CSS3", "Firebase"]}
+              links={{ github: "#", demo: "#" }}
+            />
+            
+            <ProjectCard
+              title="Instagram Clone"
+              description="Social media platform with user authentication, post creation, likes, comments, and real-time notifications system."
+              tech={["React.js", "Node.js", "Firebase", "Tailwind CSS"]}
+              links={{ github: "#", demo: "#" }}
+            />
+            
+            <ProjectCard
+              title="LetsChat - WhatsApp Clone"
+              description="Real-time chat application with messaging, group chats, and modern UI. Features responsive design and smooth animations."
+              tech={["React.js", "Firebase", "JavaScript", "CSS3"]}
+              links={{ github: "#", demo: "#" }}
+            />
+            
+            <ProjectCard
+              title="Cab Booking Data Analysis"
+              description="Comprehensive data analysis project using SQL for cab booking system. Includes data visualization and business insights."
+              tech={["SQL", "Python", "Power BI", "Data Analytics"]}
+              links={{ github: "#" }}
             />
           </div>
         </div>
