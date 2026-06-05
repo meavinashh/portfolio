@@ -302,7 +302,7 @@ export function App() {
             <motion.a
               whileHover={{ scale: 1.05 }}
               whileTap={{ scale: 0.95 }}
-              href="/Avinash_Shukla_Resume.pdf"
+              href="/Shukla_Avinash_Resume.pdf"
               className="px-8 py-3 glass-card text-white rounded-full font-semibold neon-glow-hover inline-flex items-center"
             >
               <FaDownload className="mr-2" /> Download Resume
@@ -317,7 +317,7 @@ export function App() {
           >
             <motion.a
               whileHover={{ scale: 1.2, y: -5 }}
-              href="https://github.com/meavinashh"
+              href="https://github.com/shuklaavinash"
               target="_blank"
               rel="noopener noreferrer"
               className="text-gray-300 hover:text-white transition-colors"
