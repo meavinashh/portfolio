@@ -512,49 +512,56 @@ export function App() {
               title="Cab Booking Data Analytics"
               description="Analyzed 50,000+ cab booking records using SQL, python, EDA, nad Power BI to uncover booking trends, customer behaviour, revenue patterns, and operational insights."
               tech={["Python", "SQL", "Power BI", "Pandas", "DAX", "Numpy", "Python Library", "EDA", "Maptplotlib", "Seaborn"]}
-              links={{ github: "https://github.com/meavinashh/Cab-Booking-Analytics"}}
+              links={{ github: "https://github.com/Shuklaavinash/Cab-Booking-Analytics"}}
             />
             
             <ProjectCard
               title="Python Buddy AI Assistance"
               description="Developed an NLP-powered virtual assistant capable of intent recognition, task automation, note management, and intelligent query handling."
               tech={["Python", "NLP", "Machine Learning", "Scikit-learn", "Python Library"]}
-              links={{ github: "https://github.com/meavinashh/Python-Buddy-AI-Assistance"}}
+              links={{ github: "https://github.com/Shuklaavinash/Python-Buddy-AI-Assistance"}}
             />
             
             <ProjectCard
               title="Power BI Superstore Sales Dashboard"
               description="Built an interactive Power BI dashboard to analyze sales, profit, customer segments, and regional performance using DAX and Power Query."
               tech={["Power BI", "DAX", "Power Query",]}
-              links={{ github: "https://github.com/meavinashh/Power-Bi-Dashboard-Superstore-sales-"}}
+              links={{ github: "https://github.com/Shuklaavinash/Power-Bi-Dashboard-Superstore-sales-"}}
             />
             
             <ProjectCard
               title="Gold Management System"
               description="Performed loan portfolio analysis using SQL and MySQL to evaluate customer risk profiles, repayment behavior, branch performance, and lending efficiency."
               tech={["SQL", "MySQL", "Data Analytics"]}
-              links={{ github: "https://github.com/meavinashh/SQL-Database-Gold-Loan-"}}
+              links={{ github: "https://github.com/Shuklaavinash/SQL-Database-Gold-Loan-"}}
             />
 
             <ProjectCard
               title="Electric Vehicle Market Analysis via Tableau"
               description="Created a Tableau dashboard to analyze EV adoption trends, regional performance, and market growth across the United States."
               tech={["Tableau", "Data Visualization", "Analytics"]}
-              links={{ github: "https://github.com/meavinashh/Tableau-Dashboard-of-Electric-Vehicles-of-USA-"}}
+              links={{ github: "https://github.com/Shuklaavinash/Tableau-Dashboard-of-Electric-Vehicles-of-USA-"}}
             />
 
             <ProjectCard
               title="Personal Portfolio Website"
               description="Designed and developed a responsive portfolio website showcasing technical projects, analytics expertise, and development experience."
               tech={["React", "TypeScript", "Vite", "CSS",]}
-              links={{ github: "https://github.com/meavinashh/portfolio", demo: "https://avinashshukladev.netlify.app/" }}
+              links={{ github: "https://github.com/Shuklaavinash/portfolio", demo: "https://avinashshukladev.netlify.app/" }}
             />
 
             <ProjectCard
               title="Future Private Institute Website"
               description="Designed and developed a modern educational platform highlighting courses from 1st to 12th grade, student success stories, faculty information, and academic services with a clean and user-friendly interface."
               tech={["React", "TypeScript", "Vite", "CSS", "Responsive Design"]}
-              links={{ github: "https://github.com/meavinashh/Private-Institute-Website", demo: "https://private-institute-website-3di5.vercel.app/" }}
+              links={{ github: "https://github.com/Shuklaavinash/Private-Institute-Website", demo: "https://private-institute-website-3di5.vercel.app/" }}
+            />
+
+            <ProjectCard
+              title="Retail Intelligence Platform"
+              description="Built an end-to-end retail analytics platform processing 541K+ transactions and 4.3K+ customers. Developed RFM-based customer segmentation, sales forecasting, interactive Power BI dashboards, and a React-based analytics portal with dynamic CSV-driven visualizations."
+              tech={["Python","Pandas","NumPy","Scikit-learn","Power BI","React","Vite","Recharts","Data Analytics","Machine Learning","Git","Netlify"]}
+              links={{ github: "https://github.com/Shuklaavinash/retail-intelligence-platform", demo: "https://retailintelligenceplatform.netlify.app/" }}
             />
           </div>
         </div>
